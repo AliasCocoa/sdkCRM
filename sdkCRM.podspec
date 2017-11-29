@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'sdkCRM'
-  s.version          = '1.0'
+  s.version          = '1.1'
   s.summary          = 'sdkCRM'
  
   s.description      = <<-DESC
