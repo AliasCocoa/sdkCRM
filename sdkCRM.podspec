@@ -12,9 +12,7 @@ SDK CRM
   s.author           = { 'Adel' => 'aliascocoa@gmail.com' }
   s.source           = { :git => 'https://github.com/AliasCocoa/sdkCRM.git', :tag => '1.3' }
   s.ios.deployment_target = '8.0'
-  s.ios.vendored_frameworks = 'sdkCRM.framework'
-  
-  s.dependency	'SDWebImage'
-   
+  s.ios.vendored_frameworks = 'sdkCRM.framework'  
+  s.dependency  'protobuf'
    
 end
