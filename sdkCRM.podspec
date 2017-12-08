@@ -10,7 +10,7 @@ SDK CRM
   s.homepage         = 'https://github.com/AliasCocoa/sdkCRM'
   s.license          = { :type => 'Apache', :file => 'LICENSE' }
   s.author           = { 'Adel' => 'aliascocoa@gmail.com' }
-  s.source           = { :git => 'https://github.com/AliasCocoa/sdkCRM.git', :tag => '1.3.1' }
+  s.source           = { :git => 'https://github.com/AliasCocoa/sdkCRM.git', :tag => s.version }
   s.ios.deployment_target = '8.0'
   s.ios.vendored_frameworks = 'sdkCRM.framework'  
   s.dependency  'Protobuf'
