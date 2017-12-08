@@ -13,6 +13,6 @@ SDK CRM
   s.source           = { :git => 'https://github.com/AliasCocoa/sdkCRM.git', :tag => '1.3' }
   s.ios.deployment_target = '8.0'
   s.ios.vendored_frameworks = 'sdkCRM.framework'  
-  s.dependency  'protobuf'
+  s.dependency  'Protobuf'
    
 end
