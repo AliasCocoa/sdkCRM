@@ -13,4 +13,8 @@ SDK CRM
   s.source           = { :git => 'https://github.com/AliasCocoa/sdkCRM.git', :tag => '1.2' }
   s.ios.deployment_target = '8.0'
   s.ios.vendored_frameworks = 'sdkCRM.framework'
+  
+  s.dependency	'SDWebImage'
+   
+   
 end
